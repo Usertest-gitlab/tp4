@@ -1,8 +1,0 @@
-[1m============================= test session starts =============================[0m
-platform win32 -- Python 3.13.9, pytest-9.0.2, pluggy-1.6.0
-rootdir: C:\Users\amigne2025\Documents\GitHub\tp4
-collected 1 item
-
-tests\test_sample.py [32m.[0m[32m                                                   [100%][0m
-
-[32m============================== [32m[1m1 passed[0m[32m in 0.01s[0m[32m ==============================[0m
